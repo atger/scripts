@@ -1,0 +1,8 @@
+samtools view 41_FAM3C.bam| awk '{$3 = "chr"$3; print}' | less -S
+samtools view 41_FAM3C.bam| awk '{$3 = "chr"$3; print}'| awk -v OFS="\t" '$1=$1'>lst.sam
+
+samtools view -H 41_FAM3C.bam | sed -e 's/SN:1/SN:chr1/' -e 's/SN:2/SN:chr2/'>header.sam
+
+for i in `ls *.bam`; do echo $i; samtools index $i; done
+
+tail -n +6 Gallus_gallus.gtf |grep 'gene'|awk '{print "chr"$1"\t"$4"\t"$5"\t"$7"\t"$3}'>gallus.txt

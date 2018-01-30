@@ -1,0 +1,2 @@
+ rsync -avP SO_5954 apsingh@10.0.2.18:/data/ngs/projects/apsingh/
+

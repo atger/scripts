@@ -1,0 +1,70 @@
+['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+['./execute', 'date']
+#dds
+
+$['./execute', 'date']
+#sfd
+
+#sdfsdf
+
+$['./execute', 'date']
+#dfs
+
+$['./execute', 'date']
+Elapsed time in seconds : 0.0026798248291015625
+#sdf
+
+$['./execute', 'date']
+Elapsed time in seconds : 0.002777576446533203
+#sad
+
+$['./execute', 'date']
+Elapsed time in seconds : 0.06668996810913086
+#df
+
+$['./execute', 'date']
+Elapsed time in seconds : 0.018208026885986328
+#lghhj
+
+$['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+Elapsed time in seconds : 13.951089859008789
+#dfg
+
+$['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+Elapsed time in seconds : 7.81469988822937
+#dfsdf
+
+$['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+Elapsed time in seconds : 14.082003116607666
+#dgfgdfg
+
+$['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+Elapsed time in seconds : 10.151367425918579
+#sdsdfg
+$['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+Elapsed time in seconds : 15.932812690734863
+
+#dfsdfd
+$['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+Elapsed time in seconds : 7.445928573608398
+
+#sdfsdf
+$['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+Elapsed time : 0 hours 0 minutes 9 seconds
+
+#fgfdg
+$['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+Elapsed time : 0 hours 0 minutes 19 seconds
+
+# sdfsdf
+$ ['./execute', '../local/bin/gffread', '../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff']
+Elapsed time : 0 hours 0 minutes 10 seconds
+
+# dfsdf
+$ ./execute ../local/bin/gffread ../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff
+Elapsed time : 0 hours 0 minutes 6 seconds
+
+# sdfsdf
+$ ../local/bin/gffread ../workspace/s288c/S288C_reference_genome_R64-2-1_20150113/augustus_output.gff
+Elapsed time : 0 hours 0 minutes 8 seconds
+
