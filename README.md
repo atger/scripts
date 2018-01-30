@@ -7,3 +7,4 @@
 #### axistrack.R - script to generate plot from alignmet track with Gviz
 #### execute.sh - execute command from command line and prints computation time
 #### generateGraph.R - generateGraph function to visualize Gviz alignment track
+#### scap.py - extract_sequence and filter function to process fasta file
