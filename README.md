@@ -1,4 +1,5 @@
 # scripts
 #
-#### search.py for downloading fasta sequence from uniprot with desired options
-#### sed-awk.sh for manipulating bam files using sed and awk
+#### search.py - downloading fasta sequence from uniprot with desired options
+#### sed-awk.sh - manipulating bam files using sed and awk
+#### Quality.sh - Calculate quality statistics from bam files
