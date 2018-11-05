@@ -20,10 +20,9 @@ with open(sys.argv[2]) as f:
 
 
 for i in df:
-    gene = []
+    gene = set()
     for j in ds:
-        if i[0] == j[0] and i[1]>=j[1] and i[1]<=j[2]:
-            if j[3] not in gene:
-                gene.append(j[3])
+        if i[0] == j[0] and int(i[1])>=int(j[1]) and int(i[1])<=int(j[2]):
+            gene.add(j[3])
     result = [a for b in [i,[','.join(gene)]] for a in b]
     print("\t".join(result))
